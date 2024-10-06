@@ -14,4 +14,10 @@ Dự đoán giá nhà dựa vào các model được xây dựng bằng các thu
 - Link Code Model Lasso: https://www.kaggle.com/code/thnhnguynltrung/lasso
 - Link Code Model Neutral Network: https://www.kaggle.com/code/tuananhhh/neuralnetwork2
 - Link Code Model kết hợp 3 thuật toán bằng Stacking: https://www.kaggle.com/code/hunganh72/stack
+# Setup 
+- C1: Clone code từ git xuống
+- C2: Có thể tải từ phần release
+- Lưu ý: Nhớ chỉnh lại đường dẫn đọc file dữ liệu
+```bash
+data = pd.read_csv('D:\Machine_learning\kc_house_data (1).csv') 
 
