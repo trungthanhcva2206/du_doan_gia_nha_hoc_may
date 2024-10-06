@@ -10,10 +10,10 @@ Dự đoán giá nhà dựa vào các model được xây dựng bằng các thu
 # Link demo chương trình
 - https://flask-app-deploy-hsqd.onrender.com
 # Link trên Kaggle
-- Link Code Model Hồi Quy Tuyến Tính: https://www.kaggle.com/code/thnhnguynltrung/linearhouseprediction
-- Link Code Model Lasso: https://www.kaggle.com/code/thnhnguynltrung/lasso
-- Link Code Model Neutral Network: https://www.kaggle.com/code/tuananhhh/neuralnetwork2
-- Link Code Model kết hợp 3 thuật toán bằng Stacking: https://www.kaggle.com/code/hunganh72/stack
+- [Code Model Hồi Quy Tuyến Tính](https://www.kaggle.com/code/thnhnguynltrung/linearhouseprediction)
+- [Code Model Lasso](https://www.kaggle.com/code/thnhnguynltrung/lasso)
+- [Code Model Mạng Nơ-ron](https://www.kaggle.com/code/tuananhhh/neuralnetwork2)
+- [Code Model Kết hợp 3 Thuật Toán bằng Stacking](https://www.kaggle.com/code/hunganh72/stack)
 # Setup 
 - C1: Clone code từ git xuống
 - C2: Có thể tải từ phần release
