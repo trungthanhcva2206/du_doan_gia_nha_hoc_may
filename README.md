@@ -20,7 +20,7 @@ Dự đoán giá nhà dựa vào các model được xây dựng bằng các thu
 - Lưu ý: Nhớ chỉnh lại đường dẫn đọc file dữ liệu
 ```bash
 data = pd.read_csv('D:\Machine_learning\kc_house_data (1).csv')
-bash```
+```
 - Sử dụng pip để cài đặt các thư viện cần thiết:
 
 ```bash
