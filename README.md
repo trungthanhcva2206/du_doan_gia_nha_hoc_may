@@ -1,4 +1,4 @@
-# Machine_Learning
+# Dự đoán giá nhà bằng các phương pháp học máy
 Dự đoán giá nhà dựa vào các model được xây dựng bằng các thuật toán Hồi Quy Tuyến Tính, Lasso, Neutral Network và kết hợp các thuật toán bằng kỹ thuật Stacking.
 
 # Changelogs
@@ -10,14 +10,19 @@ Dự đoán giá nhà dựa vào các model được xây dựng bằng các thu
 # Link demo chương trình
 - https://flask-app-deploy-hsqd.onrender.com
 # Link trên Kaggle
-- Link Code Model Hồi Quy Tuyến Tính: https://www.kaggle.com/code/thnhnguynltrung/linearhouseprediction
-- Link Code Model Lasso: https://www.kaggle.com/code/thnhnguynltrung/lasso
-- Link Code Model Neutral Network: https://www.kaggle.com/code/tuananhhh/neuralnetwork2
-- Link Code Model kết hợp 3 thuật toán bằng Stacking: https://www.kaggle.com/code/hunganh72/stack
+- [Code Model Hồi Quy Tuyến Tính](https://www.kaggle.com/code/thnhnguynltrung/linearhouseprediction)
+- [Code Model Lasso](https://www.kaggle.com/code/thnhnguynltrung/lasso)
+- [Code Model Mạng Nơ-ron](https://www.kaggle.com/code/tuananhhh/neuralnetwork2)
+- [Code Model Kết hợp 3 Thuật Toán bằng Stacking](https://www.kaggle.com/code/hunganh72/stack)
 # Setup 
 - C1: Clone code từ git xuống
 - C2: Có thể tải từ phần release
 - Lưu ý: Nhớ chỉnh lại đường dẫn đọc file dữ liệu
 ```bash
-data = pd.read_csv('D:\Machine_learning\kc_house_data (1).csv') 
+data = pd.read_csv('D:\Machine_learning\kc_house_data (1).csv')
+```
+- Sử dụng pip để cài đặt các thư viện cần thiết:
+
+```bash
+pip install -r requirements.txt
 
